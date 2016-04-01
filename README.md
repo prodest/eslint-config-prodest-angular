@@ -1,4 +1,5 @@
 # eslint-config-prodest-angular
+[![Build Status](https://travis-ci.org/prodest/eslint-config-prodest-angular.svg?branch=master)](https://travis-ci.org/prodest/eslint-config-prodest-angular)
 >Configurações [ESLint](http://eslint.org/) para projetos AngularJS do [PRODEST](http://www.prodest.es.gov.br)
 
 Garante que o código adere ao *coding style* para aplicações AngularJS do [PRODEST](http://www.prodest.es.gov.br), realizando o *linting*
