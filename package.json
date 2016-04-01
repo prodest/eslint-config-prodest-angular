@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-prodest-angular",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Configurações ESLint para projetos AngularJs do PRODEST",
   "main": "index.js",
   "scripts": {
